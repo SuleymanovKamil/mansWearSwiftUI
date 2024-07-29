@@ -1,7 +1,7 @@
 BEGIN:VCALENDAR
 CALSCALE:GREGORIAN
 VERSION:2.0
-X-WR-CALNAME:тест
+X-WR-CALNAME:Дейлик МП ВДНХ
 METHOD:PUBLISH
 PRODID:-//Apple Inc.//macOS 14.5//EN
 BEGIN:VTIMEZONE
@@ -15,22 +15,118 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 TRANSP:OPAQUE
-DTEND;TZID=Europe/Moscow:20240727T100000
-UID:CA5AD429-20D0-4F44-A08A-122E74E563B5
-DTSTAMP:20240726T212446Z
-X-APPLE-CREATOR-IDENTITY:com.apple.calendar
-DESCRIPTION:описание
+DTEND;TZID=Europe/Moscow:20240725T113000
+ORGANIZER;CN="k.nikishin@notamedia.ru";EMAIL="k.nikishin@notamedia.ru":m
+ ailto:k.nikishin@notamedia.ru
+UID:rj4umve4jb073ku4kl6ovielh5_R20240712T080000@google.com
+DTSTAMP:20240729T142130Z
+X-GOOGLE-CONFERENCE:https://meet.google.com/dgt-bwep-knc
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+ ~:~:~:~:~:~:~:~:~:~::~:~::-\nПрисоединиться через Google Meet: https://m
+ eet.google.com/dgt-bwep-knc.\nВы также можете позвонить по телефону: (RU
+ ) +7 499 951-64-31 PIN-код: 2901833599898#\nДополнительные номера телефо
+ нов: https://tel.meet/dgt-bwep-knc?pin=2901833599898&hs=7\n\nПодробнее о
+  Google Meet по ссылке: https://support.google.com/a/users/answer/928272
+ 0\n\nНе изменяйте данные в этом разделе.\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:
+ ~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
 STATUS:CONFIRMED
-SEQUENCE:0
-SUMMARY:тест
-DTSTART;TZID=Europe/Moscow:20240727T090000
-LAST-MODIFIED:20240726T212441Z
-CREATED:20240726T204452Z
-X-APPLE-CREATOR-TEAM-IDENTITY:0000000000
+SEQUENCE:3
+SUMMARY:Дейлик МП ВДНХ
+DTSTART;TZID=Europe/Moscow:20240725T110000
+LAST-MODIFIED:20240729T072750Z
+CREATED:20231027T163556Z
+ATTENDEE;CN="a.chakmazyan@notamedia.ru";CUTYPE=INDIVIDUAL;EMAIL="a.chakm
+ azyan@notamedia.ru";PARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;X-NUM-GUE
+ STS=0:mailto:a.chakmazyan@notamedia.ru
+ATTENDEE;CN="a.grishankov@notamedia.ru";CUTYPE=INDIVIDUAL;EMAIL="a.grish
+ ankov@notamedia.ru";PARTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;X-NUM-GUESTS=
+ 0:mailto:a.grishankov@notamedia.ru
+ATTENDEE;CN="a.kiselev@notamedia.ru";CUTYPE=INDIVIDUAL;EMAIL="a.kiselev@
+ notamedia.ru";PARTSTAT=DECLINED;ROLE=REQ-PARTICIPANT;X-NUM-GUESTS=0:mail
+ to:a.kiselev@notamedia.ru
+ATTENDEE;CN="a.vinnikov@notamedia.ru";CUTYPE=INDIVIDUAL;EMAIL="a.vinniko
+ v@notamedia.ru";PARTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;X-NUM-GUESTS=0:ma
+ ilto:a.vinnikov@notamedia.ru
+ATTENDEE;CN="d.kiriukhin@notamedia.ru";CUTYPE=INDIVIDUAL;EMAIL="d.kiriuk
+ hin@notamedia.ru";PARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;X-NUM-GUEST
+ S=0:mailto:d.kiriukhin@notamedia.ru
+ATTENDEE;CN="e.chufarnov@notamedia.ru";CUTYPE=INDIVIDUAL;EMAIL="e.chufar
+ nov@notamedia.ru";PARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;X-NUM-GUEST
+ S=0:mailto:e.chufarnov@notamedia.ru
+ATTENDEE;CN="e.timofeev@notamedia.ru";CUTYPE=INDIVIDUAL;EMAIL="e.timofee
+ v@notamedia.ru";PARTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;X-NUM-GUESTS=0:ma
+ ilto:e.timofeev@notamedia.ru
+ATTENDEE;CN="g.prosvetov@notamedia.ru";CUTYPE=INDIVIDUAL;EMAIL="g.prosve
+ tov@notamedia.ru";PARTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;X-NUM-GUESTS=0:
+ mailto:g.prosvetov@notamedia.ru
+ATTENDEE;CN="i.dolgushev@notamedia.ru";CUTYPE=INDIVIDUAL;EMAIL="i.dolgus
+ hev@notamedia.ru";PARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;X-NUM-GUEST
+ S=0:mailto:i.dolgushev@notamedia.ru
+ATTENDEE;CN="i.kasianov@digital-sector.ru";CUTYPE=INDIVIDUAL;EMAIL="i.ka
+ sianov@digital-sector.ru";PARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;X-N
+ UM-GUESTS=0:mailto:i.kasianov@digital-sector.ru
+ATTENDEE;CN="i.movsesian@notamedia.ru";CUTYPE=INDIVIDUAL;EMAIL="i.movses
+ ian@notamedia.ru";PARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;X-NUM-GUEST
+ S=0:mailto:i.movsesian@notamedia.ru
+ATTENDEE;CN="k.bogova@notamedia.ru";CUTYPE=INDIVIDUAL;EMAIL="k.bogova@no
+ tamedia.ru";PARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;X-NUM-GUESTS=0:ma
+ ilto:k.bogova@notamedia.ru
+ATTENDEE;CN="k.khitrin@notamedia.ru";CUTYPE=INDIVIDUAL;EMAIL="k.khitrin@
+ notamedia.ru";PARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;X-NUM-GUESTS=0:
+ mailto:k.khitrin@notamedia.ru
+ATTENDEE;CN="k.nikishin@notamedia.ru";CUTYPE=INDIVIDUAL;EMAIL="k.nikishi
+ n@notamedia.ru";PARTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;X-NUM-GUESTS=0:ma
+ ilto:k.nikishin@notamedia.ru
+ATTENDEE;CN="k.savialov@notamedia.ru";CUTYPE=INDIVIDUAL;EMAIL="k.savialo
+ v@notamedia.ru";PARTSTAT=DECLINED;ROLE=REQ-PARTICIPANT;X-NUM-GUESTS=0:ma
+ ilto:k.savialov@notamedia.ru
+ATTENDEE;CN="k.sulejmanov@notamedia.ru";CUTYPE=INDIVIDUAL;EMAIL="k.sulej
+ manov@notamedia.ru";PARTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;X-NUM-GUESTS=
+ 0:mailto:k.sulejmanov@notamedia.ru
+ATTENDEE;CN="m.babanov@notamedia.ru";CUTYPE=INDIVIDUAL;EMAIL="m.babanov@
+ notamedia.ru";PARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;X-NUM-GUESTS=0:
+ mailto:m.babanov@notamedia.ru
+ATTENDEE;CN="m.troshin@notamedia.ru";CUTYPE=INDIVIDUAL;EMAIL="m.troshin@
+ notamedia.ru";PARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;X-NUM-GUESTS=0:
+ mailto:m.troshin@notamedia.ru
+ATTENDEE;CN="n.kamnev@notamedia.ru";CUTYPE=INDIVIDUAL;EMAIL="n.kamnev@no
+ tamedia.ru";PARTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;X-NUM-GUESTS=0:mailto
+ :n.kamnev@notamedia.ru
+ATTENDEE;CN="n.melentev@notamedia.ru";CUTYPE=INDIVIDUAL;EMAIL="n.melente
+ v@notamedia.ru";PARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;X-NUM-GUESTS=
+ 0:mailto:n.melentev@notamedia.ru
+ATTENDEE;CN="t.valiev@notamedia.ru";CUTYPE=INDIVIDUAL;EMAIL="t.valiev@no
+ tamedia.ru";PARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;X-NUM-GUESTS=0:ma
+ ilto:t.valiev@notamedia.ru
+ATTENDEE;CN="v.altuhov@digital-sector.ru";CUTYPE=INDIVIDUAL;EMAIL="v.alt
+ uhov@digital-sector.ru";PARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;X-NUM
+ -GUESTS=0:mailto:v.altuhov@digital-sector.ru
+ATTENDEE;CN="v.grishin@notamedia.ru";CUTYPE=INDIVIDUAL;EMAIL="v.grishin@
+ notamedia.ru";PARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;X-NUM-GUESTS=0:
+ mailto:v.grishin@notamedia.ru
+ATTENDEE;CN="v.makarov@notamedia.ru";CUTYPE=INDIVIDUAL;EMAIL="v.makarov@
+ notamedia.ru";PARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;X-NUM-GUESTS=0:
+ mailto:v.makarov@notamedia.ru
+ATTENDEE;CN="v.shinkarenko@notamedia.ru";CUTYPE=INDIVIDUAL;EMAIL="v.shin
+ karenko@notamedia.ru";PARTSTAT=DECLINED;ROLE=REQ-PARTICIPANT;X-NUM-GUEST
+ S=0:mailto:v.shinkarenko@notamedia.ru
+ATTENDEE;CN="y.sudnik@notamedia.ru";CUTYPE=INDIVIDUAL;EMAIL="y.sudnik@no
+ tamedia.ru";PARTSTAT=DECLINED;ROLE=REQ-PARTICIPANT;X-NUM-GUESTS=0:mailto
+ :y.sudnik@notamedia.ru
+ATTENDEE;CN="zed.shadr@gmail.com";CUTYPE=INDIVIDUAL;EMAIL="zed.shadr@gma
+ il.com";PARTSTAT=NEEDS-ACTION;ROLE=REQ-PARTICIPANT;X-NUM-GUESTS=0:mailto
+ :zed.shadr@gmail.com
 BEGIN:VALARM
-UID:4E0CB209-BB67-40A0-B4C1-87E657627AE9
-X-WR-ALARMUID:4E0CB209-BB67-40A0-B4C1-87E657627AE9
+UID:C576522D-4710-4A13-875D-0357B02B24D2
+X-WR-ALARMUID:C576522D-4710-4A13-875D-0357B02B24D2
 TRIGGER:-PT10M
+DESCRIPTION:This is an event reminder
+ACTION:DISPLAY
+END:VALARM
+BEGIN:VALARM
+UID:18426893-4151-4B71-9518-19111830B5E1
+X-WR-ALARMUID:18426893-4151-4B71-9518-19111830B5E1
+TRIGGER:PT0S
 DESCRIPTION:This is an event reminder
 ACTION:DISPLAY
 END:VALARM
